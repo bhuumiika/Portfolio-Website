@@ -1,0 +1,3 @@
+Welcome to my portfolio website! I'm Bhumika Kaushik, a passionate Computer Science and Engineering fresher with a keen interest in software development and web development. I enjoy creating innovative solutions and collaborating with dynamic teams to deliver impactful projects.
+ABOUT ME
+I am an energetic and motivated individual with strong problem-solving abilities. I have practical experience in applying machine learning algorithms to real-world problems and have developed user-friendly web applications using HTML, CSS, and JavaScript. I am skilled in programming languages such as C++, Python, and JavaScript.
